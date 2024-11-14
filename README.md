@@ -1,1 +1,1 @@
-https://github.com/Sastragevaolivia/UTS_PROJECTWEB_LenteraStudiophoto.SastragevaOC.git
+https://uts-projectweb-lentera-studiophoto-sastrageva-oc.vercel.app/
